@@ -24,4 +24,6 @@ function destructivelyRemoveFirstKitten(name){
 
 // NOT Destructive! :)
 
-function appendKitten(name)
+function appendKitten(name){
+  
+}
