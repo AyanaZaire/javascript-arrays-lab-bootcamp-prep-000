@@ -1,5 +1,7 @@
 var kittens = ["Milo", "Otis", "Garfield"]
 
+//destructive!!! Oh No!
+
 function destructivelyAppendKitten(name){
   kittens.push(name)
   return kittens
@@ -19,3 +21,7 @@ function destructivelyRemoveFirstKitten(name){
   kittens.shift(name)
   return kittens
 }
+
+// NOT Destructive! :)
+
+function 
